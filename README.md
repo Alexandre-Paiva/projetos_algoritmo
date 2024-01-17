@@ -1,6 +1,6 @@
 # 📚 Documentação 
   ## Portugol Studio 
-  - Algoritmos e lógica de programação
+  ### - Algoritmos e lógica de programação
   |Projetos    | Referências |
   |:---------|-------------|
   |Cadastro_filhos|[Projeto 01](https://github.com/Alexandre-Paiva/projetos_algoritmo/blob/master/Cadstro_filhos.por)|
