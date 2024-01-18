@@ -15,12 +15,12 @@
 
  '''
 
-    enquanto (contador <= quantos_filhos)
+    enquanto (n <= quantos_filhos)
     	{
-     	 escreva("\nInforme o nome do "+contador+"º filho: ")
-    	 leia (nome_filho)
-    	 escreva("\nInforme a idade do "+contador+"º filho: ")
-    	 leia(idade_filho)
+     	 escreva("\nInforme o nome do "+n+"º filho: ")
+    	   leia (nome_filho)
+    	 escreva("\nInforme a idade do "+n+"º filho: ")
+    	   leia(idade_filho)
      	}
 '''
  
