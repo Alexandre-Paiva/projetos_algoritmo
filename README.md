@@ -21,8 +21,7 @@
     	   leia (nome_filho)
     	 escreva("\nInforme a idade do "+n+"º filho: ")
     	   leia(idade_filho)
-        
-     n = n + 1
+         n = n + 1
      	}
 '''
  
