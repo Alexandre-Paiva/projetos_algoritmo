@@ -14,21 +14,15 @@
  Baseado no uso da estrutura de descisão 'Escolha', onde o programa pede informações ao usuário e baseado na sua resposta ele define o número de vezes que o cadastro será realizado por meio de uma estrutura de repetição 'Enquanto'.
 
  '''
- programa
-   {
-     funcao inicio()
-       {  
-	caracter parar 
-	parar = 'N'
-		
-	  enquanto (parar != 'S')
-          {
-		escreva ("deseja parar o laço? (S/N)")           
-		leia (parar)        
-	   }    
-	  }
-   } 
- '''
+
+    enquanto (contador <= quantos_filhos)
+    	{
+     	 escreva("\nInforme o nome do "+contador+"º filho: ")
+    	 leia (nome_filho)
+    	 escreva("\nInforme a idade do "+contador+"º filho: ")
+    	 leia(idade_filho)
+     	}
+'''
  
 
 ### Projeto 02 
