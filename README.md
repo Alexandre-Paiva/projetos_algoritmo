@@ -11,4 +11,17 @@
 
 ### Projeto 01 
  Informações: 
- Baseado no uso da estrutura de descisão 'Escolha', onde o programa pede informações ao usuário e baseado na sua resposta ele define o número de vezes que o cadastro será realizado por através de uma estrutura de repetição 'Enquanto'.
+ Baseado no uso da estrutura de descisão 'Escolha', onde o programa pede informações ao usuário e baseado na sua resposta ele define o número de vezes que o cadastro será realizado por meio de uma estrutura de repetição 'Enquanto'.
+
+### Projeto 02 
+ Informações: 
+ 
+### Projeto 03 
+ Informações: 
+ 
+### Projeto 04 
+ Informações: 
+ 
+### Projeto 05 
+ Informações: 
+ 
